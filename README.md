@@ -7,6 +7,8 @@ This project was originally based on https://github.com/sup3rgiu/PoliDown
 Improvements in this fork:
  - Unibs autologin
 
+For Unibg students: https://github.com/pacho94/UnibgDown
+
 ## PREREQS
 
 * [**Node.js**](https://nodejs.org/it/download/): anything above v8.0 seems to work.
