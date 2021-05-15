@@ -1,14 +1,14 @@
 {
-  "name": "polidown",
+  "name": "unibsdown",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sup3rgiu/polidown.git"
+    "url": "git://github.com/pacho94/unibs.git"
   },
-  "version": "1.1.0",
-  "description": "Save Microsoft Stream videos uploaded by Politecnico di Milano.",
-  "main": "polidown.js",
+  "version": "1.0.0",
+  "description": "Save Microsoft Stream videos uploaded by Università degli studi di Brescia.",
+  "main": "unibs.js",
   "keywords": [],
-  "author": "sup3rgiu",
+  "author": "pacho94",
   "license": "MIT",
   "dependencies": {
     "keytar": "^6.0.0",
